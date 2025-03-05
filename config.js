@@ -1,2 +1,2 @@
 console.log("this is config file1");
-cosole.log(this is version1");
+cosole.log("this is version 2");
