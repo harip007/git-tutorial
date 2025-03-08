@@ -1,2 +1,2 @@
-console.log("this is config file1");
-cosole.log("this is version 3");
+console.log("this is config file");
+cosole.log("this is version 12");
